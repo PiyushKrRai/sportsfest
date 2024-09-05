@@ -4,18 +4,17 @@ const bosm = new Date("September 27, 2024 23:59:59").getTime();
 let prev_day, prev_hr, prev_min, prev_sec;
 let days, hrs, min, sec;
 let temp = 0;
-const vp = window.matchMedia("(max-width: 800px)");
-
-if (vp.matches) {
-  document.querySelector("#dir-para-1").innerHTML = `
-    SANGRAM 2024`;
-
-  document.querySelector("#dir-para-2").style.display = "none";
-}
+//const vp = window.matchMedia("(max-width: 800px)");
+//
+//if (vp.matches) {
+//  document.querySelector("#dir-para-1").innerHTML = `SANGRAM 2024`;
+//
+//  document.querySelector("#dir-para-2").style.display = "none";
+//}
 //about:blank#blocked
 // setInterval(() => {
-//   document.getElementById("sec").style.animation =
-//     temp % 2 == 0 ? "card-flip 0.6s" : "none";
+//  document.getElementById("sec").style.animation =
+//    temp % 2 == 0 ? "card-flip 0.6s" : "none";
 //   temp++;
 // }, 500);
 
