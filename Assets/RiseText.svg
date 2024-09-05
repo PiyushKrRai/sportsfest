@@ -85,9 +85,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-212.39977,-92.572454)"><g
+     transform="translate(-287.59391,-137.3045)"><g
        id="g10"
-       style="opacity:0.8;fill:#000000;filter:url(#filter10)"><text
+       style="opacity:0.8;fill:#000000;filter:url(#filter10)"
+       inkscape:export-filename="BOSMText.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(75.194166,44.732053)"><text
          xml:space="preserve"
          style="font-size:20.2395px;font-family:Impact;-inkscape-font-specification:Impact;fill:#000000;stroke:#000000;stroke-width:1.68662;stroke-dasharray:2.10567, 2.10567;paint-order:stroke markers fill"
          x="216.92339"
@@ -127,7 +131,8 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aero;-inkscape-font-specification:Aero;fill:#000000;stroke:none;stroke-width:0.829525"
            x="296.48114"
            y="103.53479">th</tspan></text></g><g
-       id="g4"><text
+       id="g4"
+       transform="translate(75.194166,44.732053)"><text
          xml:space="preserve"
          style="font-size:20.2395px;font-family:Impact;-inkscape-font-specification:Impact;fill:url(#radialGradient2);stroke:#000000;stroke-width:1.68662;stroke-dasharray:2.10567, 2.10567;paint-order:stroke markers fill"
          x="216.92339"
