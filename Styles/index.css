@@ -997,7 +997,7 @@ img.light,
 
 .ham-logo img {
   height: 23vh;
-  opacity: 0;
+  opacity: 100;
 }
 
 .ham-icons,
