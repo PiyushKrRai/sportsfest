@@ -232,7 +232,7 @@ body {
 
 .ham-logo img {
   height: 23vh;
-  opacity: 0;
+  opacity: 100;
 }
 
 .ham-icons,
@@ -249,7 +249,7 @@ body {
 .ham-icon {
   height: 5vh;
   width: 5vh;
-  opacity: 0;
+  opacity: 100;
 }
 
 .ham-links {
