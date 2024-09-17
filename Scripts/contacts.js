@@ -5,15 +5,15 @@ const numberListCopy = [...numberList];
 const emailListCopy = [...emailList];
 
 const contactDetails = [
-  { number: "+916395057581", email: "pcr@bitsbosm.org" },
-  { number: "+919632217970", email: "controls@bitsbosm.org" },
-  { number: "+919100955331", email: "sponsorship@bitsbosm.org" },
-  { number: "+917350334393", email: "recnacc@bitsbosm.org" },
-  { number: "+918810211563", email: "sportssecretary@bitsbosm.org" },
-  { number: "+917058949468", email: "" },
-  { number: "+916350648125", email: "" },
-  { number: "+919820075904", email: "" },
-  { number: "+919911448690", email: "webmaster@bitsbosm.org" },
+  { number: "+91 6307 196 019", email: "" },
+  { number: "+91 6200 408 819", email: "" },
+  { number: "+91 6296 499 137", email: "" },
+  { number: "+91 8101 492 928", email: "" },
+  { number: "+91 8927 109 852", email: "" },
+  { number: "+91 6909 764 006", email: "" },
+  { number: "7", email: "" },
+  { number: "8", email: "" },
+  { number: "9", email: "" },
 ];
 
 setInterval(() => {
